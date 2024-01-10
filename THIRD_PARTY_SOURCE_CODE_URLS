@@ -1,0 +1,3 @@
+pyzmq 25.0.0 https://github.com/zeromq/pyzmq
+certifi 2022.12.7 https://github.com/certifi/python-certifi
+docutils 0.15.2 https://github.com/docutils/docutils
